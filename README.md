@@ -22,9 +22,9 @@
 
 ## 📥 **Завантажити розширення**
 
-— **[badseller для Chrome](https://chromewebstore.google.com/detail/badseller-%D0%BF%D0%BE%D1%80%D1%96%D0%B2%D0%BD%D1%8F%D0%BD%D0%BD%D1%8F-%D1%86%D1%96%D0%BD/jdlbodgahckfmggafjccgjikcapegdao)**
-— badseller для Edge — скоро буде
-— **[badseller для Firefox](https://addons.mozilla.org/ru/firefox/addon/badseller/)**
+- **[badseller для Chrome](https://chromewebstore.google.com/detail/badseller-%D0%BF%D0%BE%D1%80%D1%96%D0%B2%D0%BD%D1%8F%D0%BD%D0%BD%D1%8F-%D1%86%D1%96%D0%BD/jdlbodgahckfmggafjccgjikcapegdao)**
+- badseller для Edge — скоро буде
+- **[badseller для Firefox](https://addons.mozilla.org/ru/firefox/addon/badseller/)**
 
 ---
 
